@@ -1,0 +1,17 @@
+C:\Users\DEVRAN\source\repos\Selenium_Test\Selenium_Test\bin\Debug\netcoreapp3.1\Selenium_Test.exe
+C:\Users\DEVRAN\source\repos\Selenium_Test\Selenium_Test\obj\Debug\netcoreapp3.1\Selenium_Test.csprojAssemblyReference.cache
+C:\Users\DEVRAN\source\repos\Selenium_Test\Selenium_Test\obj\Debug\netcoreapp3.1\Selenium_Test.AssemblyInfoInputs.cache
+C:\Users\DEVRAN\source\repos\Selenium_Test\Selenium_Test\obj\Debug\netcoreapp3.1\Selenium_Test.AssemblyInfo.cs
+C:\Users\DEVRAN\source\repos\Selenium_Test\Selenium_Test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\DEVRAN\source\repos\Selenium_Test\Selenium_Test\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\DEVRAN\source\repos\Selenium_Test\Selenium_Test\obj\Debug\netcoreapp3.1\Selenium_Test.csproj.CopyComplete
+C:\Users\DEVRAN\source\repos\Selenium_Test\Selenium_Test\bin\Debug\netcoreapp3.1\Selenium_Test.deps.json
+C:\Users\DEVRAN\source\repos\Selenium_Test\Selenium_Test\bin\Debug\netcoreapp3.1\Selenium_Test.runtimeconfig.json
+C:\Users\DEVRAN\source\repos\Selenium_Test\Selenium_Test\bin\Debug\netcoreapp3.1\Selenium_Test.runtimeconfig.dev.json
+C:\Users\DEVRAN\source\repos\Selenium_Test\Selenium_Test\bin\Debug\netcoreapp3.1\Selenium_Test.dll
+C:\Users\DEVRAN\source\repos\Selenium_Test\Selenium_Test\bin\Debug\netcoreapp3.1\Selenium_Test.pdb
+C:\Users\DEVRAN\source\repos\Selenium_Test\Selenium_Test\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\DEVRAN\source\repos\Selenium_Test\Selenium_Test\obj\Debug\netcoreapp3.1\Selenium_Test.csproj.CoreCompileInputs.cache
+C:\Users\DEVRAN\source\repos\Selenium_Test\Selenium_Test\obj\Debug\netcoreapp3.1\Selenium_Test.dll
+C:\Users\DEVRAN\source\repos\Selenium_Test\Selenium_Test\obj\Debug\netcoreapp3.1\Selenium_Test.pdb
+C:\Users\DEVRAN\source\repos\Selenium_Test\Selenium_Test\obj\Debug\netcoreapp3.1\Selenium_Test.genruntimeconfig.cache

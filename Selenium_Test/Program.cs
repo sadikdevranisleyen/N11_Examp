@@ -13,11 +13,7 @@ namespace Selenium_Test
             IWebDriver driver = new ChromeDriver();
 
             //N11 sayfası açılır.
-            //driver.Navigate().GoToUrl("https://www.n11.com/");
-            driver.Navigate().GoToUrl("https://wa.me/+905437355389/?text=linke+t%C4%B1klay%C4%B1n");
-            driver.Manage().Window.Maximize();
-            driver.FindElement(By.Id("")).SendKeys(Keys.Enter);
-            System.Threading.Thread.Sleep(10000);
+            driver.Navigate().GoToUrl("https://www.n11.com/");
             //Tarayıcı tam ekran yapılır.
             driver.Manage().Window.Maximize();
             //Beklenir.
@@ -72,12 +68,9 @@ namespace Selenium_Test
             System.Threading.Thread.Sleep(2000);
             //Sepetteki ürün silinir.
             driver.FindElement(By.CssSelector("#newCheckout > div > div.checkoutContainer > div.left > div.cartUpdatePartContainer > section > table.productGroup > tbody > tr > td.prodDetail > div.prodInfo > div.prodAction > span.removeProd.svgIcon.svgIcon_trash")).Click();
-
-
-            
+            //Beklenir
             System.Threading.Thread.Sleep(5000);
-
-
+            //Tarayıcı kapatılır.   
             driver.Quit();
 
 
